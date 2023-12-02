@@ -1,5 +1,4 @@
-version: '3.9'
-
+ersion: '1.29.2'
 services:
   frontend:
     container_name: ng_frontend
